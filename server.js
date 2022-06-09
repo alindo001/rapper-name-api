@@ -38,5 +38,5 @@ app.get('/api/:name', (req, res)=>{
 
 
 app.listen(PORT, ()=> {
-    console.log(`The server is now running on port ${PORT}`)
+    console.log(`The server is now running on port ${PORT} bedda go catch it` )
 })
